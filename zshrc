@@ -33,7 +33,7 @@ ZSH_THEME="yosemite"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git rvm ruby rails)
+plugins=(git rbenv ruby rails)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -56,14 +56,18 @@ alias console="bundle exec rails console"
 alias migrate="bundle exec rake db:migrate"
 alias reset="bundle exec rake:reset"
 alias restart="touch tmp/restart.txt"
+alias findprocess="ps aux | grep"
 
+# RBENV shortcuts
+alias rb="rbenv"
 
-
-PATH=$PATH:/Users/dustinarmstrong/.rvm/bin
-
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+# TMUX shortcuts
+alias tmuxkill="tmux kill-session -t"
 
 export EDITOR='vim'
 
 source ~/.bin/tmuxinator.zsh
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
+

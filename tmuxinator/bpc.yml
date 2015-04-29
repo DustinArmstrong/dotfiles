@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/bpc.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: bpc
+root: ~/Dev/work/berggruen-philosophy
 
 # Optional tmux socket
 # socket_name: foo

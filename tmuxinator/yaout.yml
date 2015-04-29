@@ -1,7 +1,7 @@
-# ~/.tmuxinator/bni.yml
+# ~/.tmuxinator/yaout.yml
 
-name: bni 
-root: ~/Dev/Work/bni
+name: yaout 
+root: ~/Dev/Work/yaout
 
 # Optional tmux socket
 # socket_name: foo

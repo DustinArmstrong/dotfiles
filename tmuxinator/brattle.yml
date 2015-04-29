@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/brattle.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: brattle
+root: ~/Dev/Work/brattle
 
 # Optional tmux socket
 # socket_name: foo

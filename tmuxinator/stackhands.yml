@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/stackhands.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: stackhands 
+root: ~/Dev/Work/stackhands
 
 # Optional tmux socket
 # socket_name: foo

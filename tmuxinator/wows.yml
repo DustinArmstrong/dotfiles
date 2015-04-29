@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/wows.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: wows
+root: ~/Dev/Work/wows2
 
 # Optional tmux socket
 # socket_name: foo

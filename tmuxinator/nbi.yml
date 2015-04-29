@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/nbi.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: nbi 
+root: ~/Dev/Work/nbi
 
 # Optional tmux socket
 # socket_name: foo
@@ -20,7 +20,7 @@ root: ~/Dev/work/berggruen
 
 windows:
   - editor:
-      layout: 924e,193x43,0,0{126x43,0,0,0,66x43,127,0[66x21,127,0,2,66x10,127,22,3,66x10,127,33,4]}
+      layout: 924e,193x43,0,0{126x43,0,0,0,66x43,127,0[66x21,127,0,2,66x10,127,22,3,66x10,127,33,4]} 
       panes:
         - vim
         - git status

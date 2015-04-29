@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/lumera.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: lumera 
+root: ~/Dev/Work/lumeradiamonds
 
 # Optional tmux socket
 # socket_name: foo
@@ -24,6 +24,6 @@ windows:
       panes:
         - vim
         - git status
-        - tail -f log/development.log 
-        - foreman start -f Procfile-dev
+        - bundle exec script/server 
+        - sass --watch app/assets/stylesheets/application.css.sass:public/stylesheets/application.css 
   #- logs: tail -f log/development.log

@@ -1,7 +1,7 @@
-# ~/.tmuxinator/berggruen.yml
+# ~/.tmuxinator/catapult.yml
 
-name: berggruen
-root: ~/Dev/work/berggruen
+name: catapult 
+root: ~/Dev/work/catapult
 
 # Optional tmux socket
 # socket_name: foo
@@ -25,5 +25,4 @@ windows:
         - vim
         - git status
         - tail -f log/development.log 
-        - foreman start -f Procfile-dev
   #- logs: tail -f log/development.log
