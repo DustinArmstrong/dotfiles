@@ -51,6 +51,8 @@ set undoreload=10000
 
 set number " Enable numbers in side column
 
+set iskeyword-=_ 
+
 let g:ackprg = 'ag --nogroup --nocolor --column' " Ag/Silver Searcher
 
 " Syntax/Color Settings

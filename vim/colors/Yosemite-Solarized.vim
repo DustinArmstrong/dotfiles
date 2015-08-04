@@ -547,7 +547,7 @@ exe "hi! TabLine"        .s:fmt_undr   .s:fg_lightgrey .s:bg_black     .s:sp_lig
 exe "hi! TabLineFill"    .s:fmt_undr   .s:fg_lightgrey .s:bg_black     .s:sp_lightgrey
 exe "hi! TabLineSel"     .s:fmt_undr   .s:fg_darkgrey  .s:bg_white     .s:sp_lightgrey  .s:fmt_revbbu
 exe "hi! CursorColumn"   .s:fmt_none   .s:fg_none      .s:bg_black 
-exe "hi! CursorLine"     .s:fmt_uopt   .s:fg_none      .s:bg_black      .s:sp_lightgrey
+exe "hi! CursorLine"     .s:fmt_uopt   .s:fg_none      .s:bg_darkgrey  .s:sp_lightgrey
 exe "hi! ColorColumn"    .s:fmt_none   .s:fg_none      .s:bg_black 
 exe "hi! Cursor"         .s:fmt_none   .s:fg_black     .s:bg_lightgrey
 hi! link lCursor Cursor

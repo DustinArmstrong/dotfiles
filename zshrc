@@ -61,7 +61,7 @@ alias restart="touch tmp/restart.txt"
 alias findprocess="ps aux | grep"
 
 # RBENV shortcuts
-alias rb="rbenv"
+alias re="rbenv"
 
 # TMUX shortcuts
 alias tmuxkill="tmux kill-session -t"
