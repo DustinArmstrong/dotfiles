@@ -25,7 +25,7 @@ filetype plugin indent on    " required
 let mapleader=","
 let g:mapleader=","
 
-:imap df <Esc>
+:imap jf <Esc>
 
 map <leader>n :NERDTreeToggle<CR> " Nerdtree Toggle
 map <F10> :echo "hi<" . synIDattr(synID(line("."),col("."),1),"name") . '> trans<' . synIDattr(synID(line("."),col("."),0),"name") . "> lo<" . synIDattr(synIDtrans(synID(line("."),col("."),1)),"name") . ">"<CR>
