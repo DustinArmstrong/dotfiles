@@ -50,9 +50,10 @@ alias work="cd ~/Dev/work"
 alias personal="cd ~/Dev/personal"
 
 # Notification Center alerts when long tasks are complete
-alias taskComplete="osascript -e 'display notification \"Task complete\" with title \"Terminal\"'"
+alias notify="osascript -e 'display notification \"Task complete\" with title \"Terminal\"'"
 
 # Rails shortcuts
+alias be="bundle exec"
 alias logs="tail -f log/development.log"
 alias console="bundle exec rails console"
 alias migrate="bundle exec rake db:migrate"
