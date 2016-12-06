@@ -48,6 +48,12 @@ alias ..-"cd .."
 alias dev="cd ~/Dev"
 alias work="cd ~/Dev/work"
 alias personal="cd ~/Dev/personal"
+alias rs="rspec spec -fd"
+
+# Git Aliases
+alias gs="git status"
+alias ga="git add ."
+alias gc="git commit"
 
 # Notification Center alerts when long tasks are complete
 alias notify="osascript -e 'display notification \"Task complete\" with title \"Terminal\"'"
@@ -67,10 +73,14 @@ alias re="rbenv"
 # TMUX shortcuts
 alias tmuxkill="tmux kill-session -t"
 
+# Emacs shortcuts
+alias em="emacsclient"
+export EDITOR='emacs'
+
+# Vim shortcuts
 export EDITOR='vim'
 
 source ~/.bin/tmuxinator.zsh
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
-

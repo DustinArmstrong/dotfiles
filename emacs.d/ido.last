@@ -1,0 +1,241 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/stylesheets/" . "vendor/")
+ ("/Users/dustinarmstrong/Dev/work/ratliff/app/assets/" . "videos/")
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/" . "base/")
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/" . "scss/")
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/views/" . "sell/")
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/views/shared/" . "sell/")
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/images/" . "static-march/")
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/" . "base/")
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/" . "guidelines/")
+ ("/Users/dustinarmstrong/Dev/work/littlelines/source/javascripts/" . "components/")
+ ("/Users/dustinarmstrong/Dev/work/littlelines/source/" . "javascripts/")
+ ("/Users/dustinarmstrong/Dev/work/" . "littlelines/")
+ ("/Users/dustinarmstrong/Dev/work/relay/" . "config/")
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/views/activities/" . "ideas/")
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/views/admin/" . "ideas/")
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/views/" . "ideas/")
+ ("/Users/dustinarmstrong/Dev/work/illumelearning/app/views/" . "pages/")
+ ("/Users/dustinarmstrong/" . ".emacs.d/")
+ ("/Users/" . "dustinarmstrong/")
+ ("/Users/dustinarmstrong/.emacs.d/etc/" . "themes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+
+)
+
+;; ----- ido-work-file-list -----
+(
+
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/dustinarmstrong/Dev/work/ratliff/config/" (22589 54805 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/railsconf17/app/" (22571 29509 0 0) "robots.txt" "manifest.json" "index.html" "crossdomain.xml" "cfp.html" "browserconfig.xml" "assets/" "404.html" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/.tmuxinator/" (22556 54750 0 0) "yves.yml" "yaout.yml" "wows.yml" "wedding.yml" "trulogix.yml" "traveling-spoon.yml" "stackhands.yml" "settings.yml" "rentaweek.yml" "relay.yml" "rayo.yml" "railsconf16.yml" "ndpress.yml" "nbi.yml" "mycrowdvoice.yml" "lumera.yml" "littlelines.yml" "insights.yml" "illume.yml" "full-frame.yml" "emc.yml" "catapult.yml" "brattle.yml" "bpc.yml" "bly.yml" "bly-blog.yml" "berggruen.yml" "aaroe.yml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/javascripts/components/" (22546 1849 0 0) "work_slider.coffee" "testimonials_slider.coffee" "offices_slider.coffee" "nav.coffee" "map.coffee" "home_slider.coffee" "contact.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/stylesheets/components/" (22547 40433 0 0) "work.sass" "user.sass" "slider.sass" "sidebar.sass" "quote.sass" "post.sass" "notifier.sass" "notification.sass" "next-project.sass" "nav.sass" "markdown.sass" "main.sass" "lists.sass" "links.sass" "heroes.sass" "header.sass" "forms.sass" "footer.sass" "filters.sass" "dribbble.sass" "contact-type.sass" "clients.sass" "client-block.sass" "asset-details.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/svg/" (22547 23267 0 0) "yaout.svg" "world.svg" "washington.svg" "wake-forest.svg" "united-states.svg" "travelingspoon.svg" "training.svg" "ten.svg" "ten-panel.svg" "swift_icon.svg" "strategy.svg" "strategy-alt.svg" "signage.svg" "security.svg" "search.svg" "ruby.svg" "responsive.svg" "rescue.svg" "requr.svg" "rayo.svg" "railsconf.svg" "one.svg" "ohio.svg" "notre-dame.svg" "logo.svg" "launch.svg" "game.svg" "elixir.svg" "ecommerce.svg" "ecommerce-alt.svg" "design.svg" "concepting.svg" "coding.svg" "branding.svg" "bly.svg" "berggruen-institute.svg" "award.svg" "angular.svg" "analytics.svg" "aaroe.svg" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/views/work/" (22546 1849 0 0) "yaout.html.haml" "travelingspoon.html.erb" "sliqr.html.haml" "rubyrags.html.haml" "rayo.html.erb" "railsconf.html.erb" "notredame.html.haml" "index.html.haml" "index.html.erb" "bly.html.haml" "bly.html.erb" "berggruen.html.erb" "aaroe.html.haml" "aaroe.html.erb" "_testimonial_slider.html.erb" "_next_project.html.erb" "_get_started.html.erb" "_dribbble_feed.html.erb" "_client_quote.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/videos/" (22543 28381 0 0) "home_smaller.webm" "home_smaller.png" "home_smaller.ogv" "home_smaller.mp4" "home_smaller.jpg" "home_smaller.jpeg" "home_smaller.gif" "archive/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen/app/views/shared/" (22526 15100 0 0) "_social.haml" "_sections_theworldpost.haml" "_sections_philosophy.haml" "_sections_governance.haml" "_sections.haml" "_notices.haml" "_hero_theworldpost.haml" "_hero_philosophy.haml" "_hero_governance.haml" "_hero_about.haml" "_hero.haml" "_header_theworldpost.haml" "_header_philosophy.haml" "_header_login.haml" "_header_governance.haml" "_header_admin.haml" "_header.haml" "_footer_theworldpost.haml" "_footer_philosophy.haml" "_footer_governance.haml" "_footer.haml" "._hero_governance.haml.swp" "#_header_admin.haml#" "#_footer_governance.haml#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/stylesheets/vendor/" (22528 62730 0 0) "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/stylesheets/" (22528 62730 0 0) "vendor/" "tools/" "settings/" "overrides/" "objects/" "generic/" "functions/" "components/" "base/" "application.sass" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/" (22506 50110 0 0) "README.md" "public/" "package.json" "node_modules/" "gulpfile.js" "app/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/" (22506 47907 0 0) "robots.txt" "manifest.json" "index.html" "crossdomain.xml" "browserconfig.xml" "assets/" "404.html" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/stylesheets/tools/" (22492 1371 0 0) "text-color-generator.sass" "tag-generator.sass" "space-generator.sass" "rem-calc.sass" "placeholder.sass" "panel-generator.sass" "notifier-generator.sass" "link-generator.sass" "hamburgers.sass" "greyscale.sass" "ellipsize.sass" "dynamic-text-lightness.sass" "clearfix.sass" "button-generator.sass" "background-color-generator.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/ratliff/" (22523 50115 0 0) "robots.txt" "README.md" "package.json" "node_modules/" "manifest.json" "index.html" "Gemfile.lock" "Gemfile" "crossdomain.xml" "browserconfig.xml" "assets/" "_site/" "_services/" "_equipment/" "_config.yml" "404.html" ".sass-cache/" ".ruby-version" ".gitignore" ".git/" ".DS_Store" "#index.html#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/ratliff/assets/_sass/vendor/" (22518 38157 0 0) "flickity.css" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/ratliff/_services/" (22518 22957 0 0) "7.md" "5.md" "4.md" "3.md" "2.md" "1.md" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/assets/fonts/" (22330 31890 0 0) "Simple-Line-Icons.woff2" "Simple-Line-Icons.woff" "Simple-Line-Icons.ttf" "Simple-Line-Icons.svg" "Simple-Line-Icons.eot" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/assets/" (22500 14691 0 0) "stylesheets/" "javascript/" "images/" "fonts/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/assets/stylesheets/" (22506 47019 0 0) "vendor/" "tools/" "settings/" "overrides/" "objects/" "generic/" "functions/" "components/" "base/" "application.sass" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/assets/stylesheets/vendor/" (22505 24939 0 0) "font-awesome/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/assets/stylesheets/vendor/font-awesome/" (22506 46861 0 0) "fonts/" "font-awesome.scss" "_variables.scss" "_stacked.scss" "_screen-reader.scss" "_rotated-flipped.scss" "_path.scss" "_mixins.scss" "_list.scss" "_larger.scss" "_icons.scss" "_fixed-width.scss" "_core.scss" "_bordered-pulled.scss" "_animated.scss" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/jess/app/assets/stylesheets/overrides/" (22498 60556 0 0) "type.sass" "syntax-highlighting.sass" "space.sass" "slider.sass" "floats.sass" "fa.sass" "displays.sass" "date-range.sass" "cursors.sass" "breaks.sass" "backgrounds.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/brattle/app/views/practice/" (22487 3070 0 0) "sub_practice.html.erb" "practice.html.erb" "list.erb" "index.html.erb" "_tax_content.erb" "_sub_practice_mobile.erb" "_practices_list_all.erb" "_practices_list.erb" "_practice_mobile.erb" "_clients_box.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/ratliff/app/assets/" (22424 58393 0 0) "stylesheets/" "javascript/" "images/" "fonts/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/components/" (22453 17313 0 0) "_syntax.scss" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/settings/" (22453 20458 0 0) "_variables.scss" "_type.scss" "_lists.scss" "_grid.scss" "_elements.scss" "_colors.scss" "_clickables.scss" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/objects/" (22453 17328 0 0) "_pheye.scss" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/base/" (22453 19900 0 0) "_type.scss" "_styles.scss" "_ph-font.scss" "_lists.scss" "_code.scss" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/functions/" (22453 19761 0 0) "_list-margin-reset-generator.scss" "_headings-generator.scss" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/" (22453 18281 0 0) "tools/" "settings/" "overrides/" "objects/" "generic/" "components/" "base/" "_functions/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/_sass/generic/" (22453 17174 0 0) "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/" (22453 15603 0 0) "svg/" "javascript/" "images/" "css/" "crap/" "_sass/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/base/" (22435 32223 0 0) "type.sass" "tables.sass" "svg.sass" "scale.sass" "layout.sass" "hr.sass" "forms.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/" (22453 14334 0 0) "README.md" "rakefile" "NOT_tags.html" "index.html" "humans.txt" "Gemfile.lock" "Gemfile" "eyetest/" "CNAME" "blog/" "assets/" "about/" "_site/" "_posts/" "_plugins/" "_layouts/" "_includes/" "_drafts/" "_config.yml" "404.html" ".ruby-version" ".gitignore" ".git/" ".DS_Store" "#humans.txt#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/posthuman/posthumanco/assets/scss/" (22453 13017 0 0) "app.scss" "_variables.scss" "_syntax.scss" "_styles.scss" "_reset.scss" "_pheye.scss" "_fonts.scss" "_elements.scss" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/assets/javascripts/angular/directives/" (22442 5535 0 0) "turboform.coffee" "submit_on_change.coffee" "sorting.coffee.erb" "slider.coffee" "scroll-to.coffee" "paginate_agents.coffee" "paginate.coffee" "on-stop.coffee" "on-scroll.coffee" "on-focus.coffee" "on-blur.coffee" "mortgage-calculator.coffee.erb" "loader.coffee" "listing_tooltip.coffee" "hold_open.coffee" "heart.coffee" "gallery.coffee" "content-editable.coffee" "chartjs-directive.js" "autocomplete.coffee.erb" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/assets/stylesheets/" (22440 54020 0 0) "sell.sass" "search.sass" "results.sass" "responsive_menu.sass" "probate.sass" "newsletter.sass" "market.sass" "international.sass" "home.sass" "header.sass" "global.sass" "foundation_and_overrides.sass" "footer.sass" "font-awesome.css.scss" "featherlight.css.scss" "estates.sass" "contact.sass" "communities.sass" "branches.sass" "blog.sass" "architectural.sass" "application.css.sass" "agents.sass" "active_admin.css.scss" "account.sass" "about.sass" "_utilities.sass" "_media_queries.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/config/initializers/" (22370 46537 0 0) "wrap_parameters.rb" "will_paginate.rb" "simple_form_foundation.rb" "simple_form.rb" "session_store.rb" "secret_token.rb" "rolify.rb" "mime_types.rb" "inflections.rb" "filter_parameter_logging.rb" "devise.rb" "carrierwave.rb" "bugsnag.rb" "backtrace_silencers.rb" "active_admin_editor.rb" "active_admin.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/stylesheets/objects/" (22427 24112 0 0) "titles.sass" "team-member.sass" "tags.sass" "tables.sass" "svg.sass" "step-circle.sass" "service.sass" "section.sass" "search.sass" "project.sass" "panels.sass" "pagination.sass" "offices.sass" "nav.sass" "map.sass" "logo.sass" "lists.sass" "layout.sass" "images.sass" "icons.sass" "headings.sass" "featured-work.sass" "content.sass" "charts.sass" "cart.sass" "buttons.sass" "avatar.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/views/shared/" (22427 27705 0 0) "_services.html.erb" "_production_javascripts.html.haml" "_pitch.html.erb" "_outbound_links.html.haml" "_offices.html.erb" "_meta.html.erb" "_header.html.erb" "_get_started.html.erb" "_footer.html.erb" "_featured.html.erb" "_client_quote.html.erb" "_blog_subheader.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/app/assets/javascripts/vendor/" (22427 23342 0 0) "vue.js" "jquery.js" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/stylesheets/components/" (22432 57870 0 0) "user.sass" "trix.sass" "topic-block.sass" "sortables.sass" "slider.sass" "sidebar.sass" "related-content.sass" "post.sass" "outbound-block.sass" "notifier.sass" "news-block.sass" "nav.sass" "modal.sass" "media-block.sass" "load-more-block.sass" "links.sass" "issue-block.sass" "inline-admin.sass" "inline-admin-toolbox.sass" "heroes.sass" "header.sass" "forms.sass" "footer.sass" "filters.sass" "feature-block.sass" "content.sass" "articles.sass" "activity-layout.sass" "activity-block.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/views/sell/" (22423 49672 0 0) "index.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/controllers/" (22423 49688 0 0) "users_controller.rb" "registrations_controller.rb" "potential_listings_controller.rb" "pages_controller.rb" "offices_controller.rb" "notes_controller.rb" "newsletter_controller.rb" "listings_controller.rb" "favorite_listings_controller.rb" "divisions_controller.rb" "contact_controller.rb" "concerns/" "communities_controller.rb" "blog_controller.rb" "architectural_controller.rb" "application_controller.rb" "agents_controller.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/" (22370 46537 0 0) "workers/" "views/" "uploaders/" "service_objects/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "admin/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/views/" (22423 49627 0 0) "users/" "shared/" "sell/" "pages/" "offices/" "notifier/" "newsletter/" "listings/" "layouts/" "divisions/" "devise/" "contact/" "communities/" "blog/" "architectural/" "agents/" "about/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/views/shared/" (22423 49609 0 0) "sell/" "_top.haml" "_subnav.haml" "_search_sidebar.haml" "_search_map.haml" "_search_hero.haml" "_retargeting_code.haml" "_responsive_menu.haml" "_quicksearch.haml" "_property_sidebar.haml" "_property_agent_contact.haml" "_properties.haml" "_open_house_sidebar.haml" "_newsletter_form.html" "_map.haml" "_manual_properties.haml" "_hero.haml" "_header.haml" "_footer.haml" "_contact_aside.haml" "_blog_sidebar.haml" "_architectural_hero.haml" "_account_sidebar.haml" "_about_hero.haml" ".#_header.haml" "#_header.haml#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/views/pages/" (22423 49588 0 0) "sell.haml" "search_results_map.haml.old" "search_results.haml.old" "search.haml.old" "open_house_map.haml.old" "open_house.haml.old" "market.haml" "home.haml" "disclaimer.haml" "blog.haml" "about.haml" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/aaroe/app/assets/javascripts/angular/controllers/" (22370 50266 0 0) "social_ctrl.coffee" "search_ctrl.coffee" "office_ctrl.coffee" "notes_ctrl.coffee" "market_ctrl.coffee" "map_ctrl.coffee" "favorites_ctrl.coffee" "area_ctrl.coffee" "architects_ctrl.coffee" "agents_ctrl.coffee" "account_ctrl.coffee" "about_ctrl.coffee" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/javascripts/components/" (22361 50209 0 0) "work_slider.coffee" "testimonials_slider.coffee" "nav.coffee" "map.coffee" "home_slider.coffee" "contact.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/work/" (22339 9532 0 0) "yaout.html.haml" "travelingspoon.html.erb" "sliqr.html.haml" "rubyrags.html.haml" "rayo.html.erb" "notredame.html.haml" "index.html.haml" "index.html.erb" "bly.html.haml" "bly.html.erb" "berggruen.html.erb" "aaroe.html.haml" "aaroe.html.erb" "_next_project.html.erb" "_get_started.html.erb" "#berggruen.html.erb#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/assets/stylesheets/objects/" (22330 12645 0 0) "videos.sass" "titles.sass" "tables.sass" "sticky.sass" "section.sass" "search.sass" "panels.sass" "nav.sass" "member.sass" "logo.sass" "lists.sass" "layout.sass" "images.sass" "headings.sass" "figures.sass" "dates.sass" "cart.sass" "careers.sass" "avatar.sass" "accordion.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/svg/" (22331 29732 0 0) "world.svg" "washington.svg" "united-states.svg" "training.svg" "ten.svg" "ten-panel.svg" "strategy.svg" "strategy-alt.svg" "signage.svg" "security.svg" "ruby.svg" "responsive.svg" "rescue.svg" "one.svg" "ohio.svg" "logo.svg" "game.svg" "elixir.svg" "ecommerce.svg" "ecommerce-alt.svg" "design.svg" "deploy.svg" "concepting.svg" "coding.svg" "branding.svg" "award.svg" "angular.svg" "analytics.svg" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/components/" (22324 60976 0 0) "work.sass" "user.sass" "slider.sass" "sidebar.sass" "post.sass" "notifier.sass" "notification.sass" "next-project.sass" "nav.sass" "main.sass" "lists.sass" "links.sass" "heroes.sass" "header.sass" "forms.sass" "footer.sass" "filters.sass" "contact-type.sass" "client-block.sass" "asset-details.sass" "#heroes.sass#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/objects/" (22325 58314 0 0) "titles.sass" "team-member.sass" "tags.sass" "tables.sass" "svg.sass" "step-circle.sass" "service.sass" "section.sass" "search.sass" "project.sass" "panels.sass" "pagination.sass" "offices.sass" "nav.sass" "map.sass" "logo.sass" "lists.sass" "layout.sass" "images.sass" "icons.sass" "headings.sass" "featured-work.sass" "content.sass" "charts.sass" "cart.sass" "buttons.sass" "avatar.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/" (22324 59589 0 0) "tools/" "settings/" "quick_contacts.scss" "project_contacts.scss" "overrides/" "objects/" "generic/" "functions/" "components/" "base/" "apply_contacts.scss" "application.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/" (22323 16288 0 0) "work/" "shared/" "posts/" "planner/" "pages/" "notifier/" "newsletter/" "layouts/" "guidelines/" "contacts/" "careers/" "blog/" "apply_contacts/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/shared/" (22324 41672 0 0) "_services.html.erb" "_production_javascripts.html.haml" "_pitch.html.erb" "_outbound_links.html.haml" "_offices.html.erb" "_header.html.erb" "_get_started.html.erb" "_footer.html.erb" "_featured.html.erb" "_client_quote.html.erb" "_blog_subheader.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/helpers/" (22323 16288 0 0) "quick_contacts_helper.rb" "project_contacts_helper.rb" "posts_helper.rb" "apply_contacts_helper.rb" "application_helper.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/layouts/" (22323 16991 0 0) "work.html.erb" "tag.haml" "post.haml" "mailer.text.erb" "mailer.html.erb" "guidelines.html.erb" "application.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/stylesheets/overrides/" (22311 46005 0 0) "type.sass" "space.sass" "links.sass" "jquery-ui.sass" "colors.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/views/pages/" (22304 52705 0 0) "static.html.haml" "static-march.html.haml" "home.html.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/views/shared/" (22306 22695 0 0) "analytics.html" "_notices.html.haml" "_issue.html.haml" "_image_fieldset.html.haml" "_header_login.html.haml" "_header_admin.html.haml" "_header.html.haml" "_form_errors.html.haml" "_footer.html.haml" "_facebook.html" "_comments.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/javascripts/components/" (22304 62275 0 0) "sliders/" "nav.coffee" "admin_panel/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/svg/" (22295 35915 0 0) "youtube.svg" "x.svg" "twitter.svg" "share.svg" "search.svg" "pencil.svg" "paper.svg" "map-marker.svg" "link.svg" "lightbulb.svg" "instagram.svg" "insights.svg" "insights-stacked.svg" "hamburger.svg" "globe.svg" "facebook.svg" "eye.svg" "envelope.svg" "clock.svg" "chevron-down.svg" "check.svg" "chat.svg" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/javascripts/services/" (22297 7953 0 0) "sliders/" "post_manager.coffee" "image_validator.coffee" "document_validator.coffee" "_service.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/stylesheets/objects/" (22296 58362 0 0) "videos.sass" "titles.sass" "tables.sass" "sticky.sass" "section.sass" "search.sass" "panels.sass" "nav.sass" "logo.sass" "lists.sass" "layout.sass" "images.sass" "headings.sass" "figures.sass" "dates.sass" "avatar.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/brattle/app/views/practice/" (22219 23297 0 0) "sub_practice.html.erb" "practice.html.erb" "index.html.erb" "_sub_practice_mobile.erb" "_practices_list.erb" "_practice_mobile.erb" "_clients_box.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/insights/app/assets/images/" (22224 51328 0 0) "static/" "social/" ".keep" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/careers/" (22266 54201 0 0) "index.html.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/contact/" (22266 53232 0 0) "thanks.html.haml" "index.html.erb" "apply.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/pages/" (22258 54551 0 0) "services.html.haml" "rails-consulting.html.haml" "index.html.erb" "blog.html.haml" "about.html.haml" ".#index.html.erb" "#index.html.erb#" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/tools/" (22252 22654 0 0) "text-color-generator.sass" "tag-generator.sass" "space-generator.sass" "rem-calc.sass" "placeholder.sass" "panel-generator.sass" "notifier-generator.sass" "link-generator.sass" "greyscale.sass" "ellipsize.sass" "dynamic-text-lightness.sass" "clearfix.sass" "button-generator.sass" "background-color-generator.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/overrides/" (22249 29718 0 0) "type.sass" "syntax-highlighting.sass" "space.sass" "floats.sass" "fa.sass" "displays.sass" "date-range.sass" "cursors.sass" "backgrounds.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/assets/stylesheets/functions/" (22249 47063 0 0) "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/emc_arts/spec/components/" (22229 60218 0 0) "youtube_component_spec.rb" "vimeo_component_spec.rb" "two_up_photo_link_component_spec.rb" "two_column_list_component_spec.rb" "two_column_callout_component_spec.rb" "right_rail_list_component_spec.rb" "right_rail_item_component_spec.rb" "right_rail_box_component_spec.rb" "quote_component_spec.rb" "photo_link_component_spec.rb" "photo_carousel_component_spec.rb" "markdown_component_spec.rb" "list_item_component_spec.rb" "list_column_component_spec.rb" "link_item_component_spec.rb" "impact_list_item_component_spec.rb" "impact_list_component_spec.rb" "full_width_related_entry_component_spec.rb" "full_width_photo_component_spec.rb" "full_width_photo_callout_component_spec.rb" "full_bleed_section_component_spec.rb" "full_bleed_callout_component_spec.rb" "email_form_component_spec.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/emc_arts/app/components/" (22243 10164 0 0) "youtube_component.rb" "wysiwyg_component.rb" "vimeo_component.rb" "video_component.rb" "two_up_photo_link_component.rb" "two_column_list_component.rb" "two_column_callout_component.rb" "section_component.rb" "right_rail_list_component.rb" "right_rail_item_component.rb" "right_rail_box_component.rb" "quote_component.rb" "photo_link_component.rb" "photo_carousel_component.rb" "markdown_component.rb" "list_item_component.rb" "list_column_component.rb" "link_item_component.rb" "impact_list_item_component.rb" "impact_list_component.rb" "full_width_related_entry_component.rb" "full_width_photo_component.rb" "full_width_photo_callout_component.rb" "full_bleed_section_component.rb" "full_bleed_callout_component.rb" "email_form_component.rb" "component_with_related_resource.rb" "component_with_image.rb" "component.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/emc_arts/app/views/components/" (22243 9888 0 0) "_wysiwyg.html.erb" "_video.html.erb" "_two_up_photo_link.html.erb" "_two_column_list.html.erb" "_two_column_callout.html.erb" "_right_rail_list.html.erb" "_right_rail_item.html.erb" "_right_rail_box.html.erb" "_quote.html.erb" "_photo_link.html.erb" "_photo_carousel_item.html.erb" "_photo_carousel.html.erb" "_markdown.html.erb" "_list_item.html.erb" "_list_column.html.erb" "_link_item.html.erb" "_impact_list_item.html.erb" "_impact_list.html.erb" "_full_width_related_entry.html.erb" "_full_width_photo_callout.html.erb" "_full_width_photo.html.erb" "_full_bleed_section.html.erb" "_full_bleed_callout.html.erb" "_email_form.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/app/views/guidelines/" (22232 29366 0 0) "index.html.erb" "_type_selectors.haml" "_tags.haml" "_tables_spaced.haml" "_tables_responsive.haml" "_tables_notification.haml" "_tables.haml" "_radios.haml" "_panels.haml" "_nav_horizontal.haml" "_nav.haml" "_lists_unordered.haml" "_lists_ordered.haml" "_lists_horizontal.haml" "_lists_definition.haml" "_lists.haml" "_links.haml" "_inputs_status.haml" "_inputs_search.haml" "_inputs.haml" "_hero.haml" "_headings.haml" "_header.haml" "_filters.haml" "_colors_named.haml" "_colors.haml" "_checkboxes.haml" "_buttons.haml" "_alerts.html.erb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/littlelines/config/" (22228 30933 0 0) "secrets.yml" "sample.database.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "cable.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/views/members/" (22196 60659 0 0) "show.haml" "_member.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/source/javascripts/components/" (22183 50138 0 0) "app.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/source/javascripts/" (22183 50138 0 0) "vendor/" "services/" "models/" "components/" "app.js.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/source/" (22194 13270 0 0) "work/" "stylesheets/" "sitemap.xml.erb" "shared/" "services.html.haml" "robots.txt" "ribbons/" "rails-consulting.html.haml" "planner/" "newsletter/" "layouts/" "javascripts/" "index.html.haml" "images/" "humans.txt" "guidelines/" "google698d0f1188bb34a2.html" "feed.xml.builder" "favicon.png" "favicon.gif" "crossdomain.xml" "contact/" "careers/" "blog.html.haml" "blog/" "apple-touch-icon.png" "apple-touch-icon-precomposed.png" "apple-touch-icon-72x72-precomposed.png" "apple-touch-icon-57x57-precomposed.png" "apple-touch-icon-144x144-precomposed.png" "apple-touch-icon-114x114-precomposed.png" "about.html.haml" "404.html" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/littlelines/" (22192 50988 0 0) "tmp/" "test/" "source/" "README.md" "Rakefile" "node_modules/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "data/" "config.ru" "config.rb" "BLOGS.md" ".ruby-version" ".ruby-gemset" ".rbenv-version" ".rbenv-gemsets" ".gitignore" ".git/" ".cache/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/" (22195 27367 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "README.md" "Rakefile" "public/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "deploy/" "db/" "coverage/" "config.ru" "config/" "bin/" "app/" ".ruby-version" ".ruby-gemset" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/assets/" (21964 62759 0 0) "svg/" "stylesheets/" "javascripts/" "images/" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/assets/javascripts/" (22158 56352 0 0) "trix-customization.js" "services/" "ng-helper.coffee" "filters/" "directives/" "ckeditor/" "application.coffee" "app.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/berggruen-institute/app/assets/javascripts/directives/" (22158 36246 0 0) "waypoint.coffee" "vim.coffee" "toggle-this.coffee" "toggle-menu.coffee" "submit_on_change.coffee" "slider.coffee" "scroll-to.coffee" "scroll-to-onload.coffee" "on-stop.coffee" "on-scroll.coffee" "on-focus.coffee" "on-blur.coffee" "loader.coffee" "live-preview.coffee.erb" "go-back.coffee" "focus_on.coffee" "fade-in-on-load.coffee" "dropdown.coffee" "board-page.coffee" "background-image.coffee" "back-to-top.coffee" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/brattle/db/migrate/" (22175 56430 0 0) "20160120184213_create_home_featured.rb" "20150914170636_add_fifth_pdf_to_publications_and_news.rb" "20150709185502_add_phone_main_seconary_to_expert.rb" "20150702142050_create_practice_client_overview.rb" "20150701193546_create_client_memberships.rb" "20150630190645_create_client_associations.rb" "20150623201302_create_clients.rb" "20150623200950_create_client_groups.rb" "20150623200534_drop_clients_table.rb" "20150527174803_add_caption_title_to_spotlights.rb" "20150526204127_add_paperclip_for_client.rb" "20150526194335_create_clients_sub_practices.rb" "20150526194208_create_clients_practices.rb" "20150522212825_create_friendly_id_slugs.rb" "20150522211609_add_friendlyid_to_news.rb" "20141220004558_add_push_to_practice_events_sidebar_to_practices.rb" "20141219231724_create_key_contacts_spotlights.rb" "20141219224421_add_sub_practices_in_sidebar_to_practices.rb" "20141210232801_add_push_to_homepage_to_case_spotlights.rb" "20140904200741_add_used_by_to_uploads.rb" "20140806154511_rename_push_to_homepage_on_news.rb" "20140413215746_add_notes.rb" "20140410204801_create_uploads.rb" "20140331213728_add_upcoming_events_automatic_to_spotlights.rb" "20140331212307_add_publication_photo_spotlight_to_spotlights.rb" "20140331202553_add_protected_access_to_subscribers.rb" "20140331202450_add_protected_to_publications.rb" "20140331124307_add_video_link_to_news.rb" "20140331112720_add_sentence_to_publications.rb" "20140228202943_create_slider_spotlight_habtms.rb" "20140228192550_add_slider_image_and_slider_title_and_slider_intro_and_slider_text_and_slider_sidebar_caption_to_spotlights.rb" "20140225191343_add_intro_to_news.rb" "20131216093026_add_push_to_homepage_to_news.rb" "20131023132259_add_office_2_to_experts.rb" "20130930223214_add_intro_to_practices.rb" "20130925110548_add_highlight_word_count_to_spotlights.rb" "20130920215544_add_external_link_and_display_date_to_testimonies.rb" "20130920215112_add_publish_day_and_publish_month_and_publish_year_to_testimonies.rb" "20130919120127_add_linked_news_item_id_to_spotlights.rb" "20130919114605_add_client_name_and_client_company_to_spotlights.rb" "20130917190612_create_subscribers.rb" "20130912000234_add_case_title_and_case_intro_to_spotlights.rb" "20130911164132_add_expert_caption_to_spotlights.rb" "20130909232424_create_publications_push_to_experts.rb" "20130903230806_create_career_people.rb" "20130903213031_create_recruiting_events.rb" "20130902111359_add_expert_captions_to_spotlight.rb" "20130829143030_change_publication_title_type.rb" "20130829134821_create_push_to_for_publications.rb" "20130829125533_add_more_pdfs_to_publications_and_news.rb" "20130829092635_add_people_principals_and_people_advisors_and_people_consultants_to_spotlights.rb" "20130829091827_add_people_principals_text_and_people_academic_advisors_text_and_people_consultants_text_to_spotlights.rb" "20130828232500_add_client_perspective_to_spotlights.rb" "20130828223904_create_practice_related_sub_practices.rb" "20130828133216_create_sub_practice_related_sub_practices.rb" "20130828121016_add_testimony_id_to_spotlights.rb" "20130826130211_add_presented_line_and_extra_text_and_external_link_to_publications.rb" "20130826120504_create_experts_testimonies.rb" "20130826120132_create_testimonies.rb" "20130826114136_create_sub_practice_related_practices.rb" "20130826114034_add_position_to_sub_practice.rb" "20130821222041_add_state_and_zip_and_street_address_and_suite_to_offices.rb" "20130821152613_add_project_number_to_news.rb" "20130821133008_add_active_to_entities.rb" "20130819201438_add_lat_and_lng_to_offices.rb" "20130819140539_add_authors_to_publication.rb" "20130819112236_create_case_spotlights.rb" "20130819105843_create_related_practices_habtm.rb" "20130816005927_add_parent_sub_practice_id_to_sub_practices.rb" "20130815215812_add_position_to_practices.rb" "20130815204811_add_publish_year_and_publish_month_and_publish_day_to_publications.rb" "20130814213652_create_habtm_for_practices.rb" "20130814211818_add_group_title_for_sub_practices.rb" "20130814150129_add_citation_to_publications.rb" "20130814125314_add_hotels_parkings_tab_to_offices.rb" "20130814114149_add_phone_main_to_experts.rb" "20130806203915_create_news_spotlights.rb" "20130806201147_create_spotlights.rb" "20130806190701_remove_obsolete_columns.rb" "20130806190504_create_engagements_expertd.rb" "20130806190412_create_engagements_sub_practices.rb" "20130801161321_add_order_to_offices.rb" "20130725210019_add_target_date_to_news.rb" "20130725191623_add_authors_to_publications.rb" "20130725095649_add_industry_practice_to_practices.rb" "20130718220636_rename_caption_to_description_for_content.rb" "20130718213411_add_paperclip_to_news.rb" "20130718142258_add_paperclip_for_publications.rb" "20130718131858_add_paperclip_for_expert.rb" "20130718103240_add_paperclip_for_office_image.rb" "20130717152944_create_news_sub_practices.rb" "20130717152729_create_publications_sub_practices.rb" "20130717152544_create_experts_sub_practices.rb" "20130717152213_create_experts_publications.rb" "20130717152101_create_experts_news.rb" "20130717151643_create_news_offices.rb" "20130717131306_move_admin_notes_to_comments.rb" "20130717131305_create_admin_notes.rb" "20130717131301_devise_create_admin_users.rb" "20130717105515_create_engagements.rb" "20130717104729_create_sub_practices.rb" "20130717104440_create_practices.rb" "20130717101605_create_news.rb" "20130717100725_create_publications.rb" "20130717100355_create_experts.rb" "20130717100106_create_offices.rb" "20130717095803_create_contents.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/brattle/app/" (22128 22865 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "admin/" ".DS_Store" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/brattle/app/models/" (22175 54867 0 0) "upload.rb" "testimony.rb" "subscriber.rb" "sub_practice.rb" "spotlight.rb" "recruiting_event.rb" "publication.rb" "practice.rb" "office.rb" "news.rb" "home_featured.rb" "expert.rb" "engagement.rb" "content.rb" "concerns/" "client_membership.rb" "client_group.rb" "client_association.rb" "client.rb" "case_spotlight.rb" "career_person.rb" "admin_user.rb" ".gitkeep" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/Work/brattle/app/admin/" (22166 49179 0 0) "uploads.rb" "testimonies.rb" "subscribers.rb" "sub_practices.rb" "spotlights.rb" "recruiting_events.rb" "publications.rb" "practices.rb" "offices.rb" "news.rb" "inputs/" "experts.rb" "events.rb" "engagements.rb" "dashboard.rb" "contents.rb" "client_group.rb" "client.rb" "case_spotlights.rb" "career_people.rb" "admin_user.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/full-frame/app/assets/stylesheets/overrides/" (22158 37317 0 0) "sliders.sass" "colors.sass" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/full-frame/app/views/shared/" (22158 39369 0 0) "_notices.haml" "_hero_governance.haml" "_hero_about.haml" "_hero.haml" "_header_login.haml" "_header_admin.haml" "_header.haml" "_footer.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/full-frame/app/views/layouts/" (22158 37317 0 0) "login.haml" "application.haml" "admin.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/full-frame/app/views/pages/" (22158 37317 0 0) "news-index.haml" "home_philosophy.haml" "home_governance.haml" "home.haml" "guidelines.haml" "group-index.haml" "about_philosophy.haml" "about_governance.haml" "about.haml" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/relay/config/" (22138 54965 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/dustinarmstrong/Dev/work/relay/" (22138 54965 0 0) "vendor/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".ruby-version" ".gitignore" ".git/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

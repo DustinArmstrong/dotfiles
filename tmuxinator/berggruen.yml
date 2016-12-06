@@ -7,7 +7,7 @@ root: ~/Dev/work/berggruen
 # socket_name: foo
 
 # Runs before everything. Use it to start daemons etc.
-# pre: sudo /etc/rc.d/mysqld start
+pre: emacs -daemon
 
 # Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
 # pre_window: rbenv shell 2.0.0-p247
@@ -22,8 +22,7 @@ windows:
   - editor:
       layout: 924e,193x43,0,0{126x43,0,0,0,66x43,127,0[66x21,127,0,2,66x10,127,22,3,66x10,127,33,4]}
       panes:
-        - vim
+        - emacs Gemfile
         - git status
-        - tail -f log/development.log 
-        - foreman start -f Procfile-dev
-  #- logs: tail -f log/development.log
+        - tail -f log/development.log
+  - console: rails console

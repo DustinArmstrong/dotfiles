@@ -1,0 +1,59 @@
+
+;; ----- smex-history -----
+(
+ coffee-mode
+ visual-line-mode
+ adaptive-wrap-prefix-mode
+ package-install
+ column-number-mode
+ set-fill-column
+ describe-face
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 12)
+ (customize-create-theme . 1)
+ (customize-save-customized . 1)
+ (load-theme . 15)
+ (load-file . 14)
+ (indent-region . 2)
+ (indent-rigidly-right . 8)
+ (indent-rigidly-right-to-tab-stop . 3)
+ (indent-rigidly-left-to-tab-stop . 1)
+ (evil-indent-line . 1)
+ (evil-indent . 3)
+ (facemenu-read-color . 1)
+ (what-cursor-position . 4)
+ (hl-line-mode . 6)
+ (customize-themes . 3)
+ (rainbow-mode . 1)
+ (describe-face . 24)
+ (evil-paste-after . 1)
+ (yank-pop . 1)
+ (revert-buffer-with-coding-system . 2)
+ (encode-coding-region . 1)
+ (magit-blame . 2)
+ (magit-blame-quit . 2)
+ (neotree-enter-vertical-split . 1)
+ (package-show-package-list . 1)
+ (package-refresh-contents . 1)
+ (emmet-mode . 1)
+ (emmet-expand-yas . 1)
+ (describe-syntax . 5)
+ (html-mode . 4)
+ (haml-mode . 1)
+ (multi-web-mode . 5)
+ (web-mode . 18)
+ (ruby-mode . 2)
+ (multi-web-global-mode . 1)
+ (web-mode-disable . 1)
+ (sass-mode . 2)
+ (css-mode . 1)
+ (scss-mode . 2)
+ (visual-line-mode . 3)
+ (set-fill-column . 2)
+ (column-number-mode . 3)
+ (adaptive-wrap-prefix-mode . 1)
+ (coffee-mode . 1)
+)

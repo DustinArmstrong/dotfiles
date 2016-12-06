@@ -22,8 +22,7 @@ windows:
   - editor:
       layout: 924e,193x43,0,0{126x43,0,0,0,66x43,127,0[66x21,127,0,2,66x10,127,22,3,66x10,127,33,4]}
       panes:
-        - vim
+        - emacs Gemfile
         - git status
-        - tail -f log/development.log 
-        - foreman start -f Procfile-dev
-  #- logs: tail -f log/development.log
+        - tail -f log/development.log
+  - console: rails console
