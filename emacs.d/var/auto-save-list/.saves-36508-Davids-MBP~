@@ -1,0 +1,14 @@
+/Users/david/Projects/ndpress/app/models/product_format.rb
+/Users/david/Projects/ndpress/app/models/#product_format.rb#
+/Users/david/Projects/ndpress/config/deploy.rb
+/Users/david/Projects/ndpress/config/#deploy.rb#
+/Users/david/Projects/ndpress/app/views/products/show.html.haml
+/Users/david/Projects/ndpress/app/views/products/#show.html.haml#
+/Users/david/Projects/ndpress/app/models/product.rb
+/Users/david/Projects/ndpress/app/models/#product.rb#
+/Users/david/Projects/ndpress/db/migrate/20140520135411_adds_ebook_fields_to_products.rb
+/Users/david/Projects/ndpress/db/migrate/#20140520135411_adds_ebook_fields_to_products.rb#
+/Users/david/Projects/ndpress/db/migrate/20140318141235_create_departments.rb
+/Users/david/Projects/ndpress/db/migrate/#20140318141235_create_departments.rb#
+/Users/david/Projects/ndpress/db/migrate/017_add_price_and_type_to_sale_items.rb
+/Users/david/Projects/ndpress/db/migrate/#017_add_price_and_type_to_sale_items.rb#
