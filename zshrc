@@ -42,21 +42,38 @@ source $ZSH/oh-my-zsh.sh
 # Set Path
 export PATH=/usr/local/bin:$PATH
 
+# GPG auth
+export GPG_TTY=$(tty)
+
+# Emacs
+# alias em="emacsclient -nw"
+em() {
+  if [ -n "$1" ]
+  then
+    emacsclient -nw "$1"
+  else
+    emacsclient -nw .
+  fi
+}
+
 # Path Aliases
 alias path="echo $PATH"
 alias ..-"cd .."
-alias dev="cd ~/Dev"
-alias work="cd ~/Dev/work"
-alias personal="cd ~/Dev/personal"
+alias work="cd ~/Development"
 alias rs="rspec spec -fd"
+alias newestdir="ls -t /backups | head -1"
 
 # Git Aliases
 alias gs="git status"
 alias ga="git add ."
-alias gc="git commit"
+alias gc="git commit -S"
+gclone() {
+  git clone "$1" && cd $(basename $_ .git) && mkdir _project_resources
+}
 
 # Notification Center alerts when long tasks are complete
 alias notify="osascript -e 'display notification \"Task complete\" with title \"Terminal\"'"
+alias nn="notify"
 
 # Rails shortcuts
 alias be="bundle exec"
@@ -67,20 +84,34 @@ alias reset="bundle exec rake:reset"
 alias restart="touch tmp/restart.txt"
 alias findprocess="ps aux | grep"
 
+# Temp MySQL fix
+alias fixmysql="sudo /usr/local/Cellar/mysql@5.6/5.6.34/bin/mysql.server start --skip-grant-tables --skip-networking"
+
+
+findport() {
+  lsof -i tcp:"$1"
+}
+
 # RBENV shortcuts
-alias re="rbenv"
+alias rb="rbenv"
 
 # TMUX shortcuts
-alias tmuxkill="tmux kill-session -t"
+alias tml="tmux list-sessions"
+alias tma="tmux -2 attach -t $1"
+alias tmk="tmux kill-session -t $1"
 
 # Emacs shortcuts
 alias em="emacsclient"
 export EDITOR='emacs'
 
 # Vim shortcuts
-export EDITOR='vim'
+# export EDITOR='vim'
 
 source ~/.bin/tmuxinator.zsh
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
+export PATH="/usr/local/opt/nss/bin:$PATH"
+export PATH="/usr/local/opt/mysql@5.6/bin:$PATH"
+export PATH="/usr/local/opt/php@7.1/bin:$PATH"
+export PATH="/usr/local/opt/php@7.1/sbin:$PATH"

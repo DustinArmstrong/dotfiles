@@ -1,7 +1,7 @@
 # ~/.tmuxinator/rentaweek.yml
 
 name: rentaweek
-root: ~/Dev/work/rentaweek
+root: ~/Development/rentaweek
 
 # Optional tmux socket
 # socket_name: foo

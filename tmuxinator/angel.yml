@@ -1,17 +1,16 @@
-# ~/.tmuxinator/littlelines.yml
+# ~/.tmuxinator/angel.yml
 
-name: littlelines
-root: ~/Development/littlelines
+name: angel
+root: ~/Development/kaiser
 
 # Optional tmux socket
 # socket_name: foo
 
 # Runs before everything. Use it to start daemons etc.
 # pre: sudo /etc/rc.d/mysqld start
-# on_project_start: export RBENV_DIR=
 
 # Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
-# pre_window: rbenv shell 2.2.3
+# pre_window: rbenv shell 2.0.0-p247
 
 # Pass command line options to tmux. Useful for specifying a different tmux.conf.
 # tmux_options: -f ~/.tmux.mac.conf
@@ -26,4 +25,6 @@ windows:
         - emacs Gemfile
         - git status
         - rails s
+  - redis: redis-serve
+  - search: elasticsearch
   - console: rails console

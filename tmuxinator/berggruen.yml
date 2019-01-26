@@ -1,7 +1,7 @@
 # ~/.tmuxinator/berggruen.yml
 
 name: berggruen
-root: ~/Dev/work/berggruen
+root: ~/Development/berggruen
 
 # Optional tmux socket
 # socket_name: foo

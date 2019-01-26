@@ -1,8 +1,16 @@
 [user]
 	name = Dustin Armstrong
 	email = dustin@dustinarmstrong.com
+	signingkey = 2FC62DF02BF21DF7
+	signkey = 5BFBD37DA9E3B99D
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 [core]
-	editor = vim
+	editor = emacs
 	excludesfile = /Users/dustinarmstrong/.gitignore_global
+[credential]
+	helper = osxkeychain
+[gpg]
+	program = gpg
+[commit]
+	gpgsign = true

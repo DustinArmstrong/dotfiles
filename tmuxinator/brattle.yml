@@ -1,7 +1,7 @@
 # ~/.tmuxinator/brattle.yml
 
 name: brattle
-root: ~/Dev/Work/brattle
+root: ~/Development/brattle
 
 # Optional tmux socket
 # socket_name: foo

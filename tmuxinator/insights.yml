@@ -1,7 +1,7 @@
 # ~/.tmuxinator/insights.yml
 
 name: insights
-root: ~/Dev/work/insights
+root: ~/Development/insights
 
 # Optional tmux socket
 # socket_name: foo

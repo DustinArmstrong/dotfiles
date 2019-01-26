@@ -1,3 +1,6 @@
 *.swp
 *.un\~
+\#*
+.\#*
 .DS_Store
+_project-resources/

@@ -1,7 +1,7 @@
 # ~/.tmuxinator/railsconf17.yml
 
 name: rc17
-root: ~/Dev/work/railsconf17
+root: ~/Development/railsconf17
 
 # Optional tmux socket
 # socket_name: foo

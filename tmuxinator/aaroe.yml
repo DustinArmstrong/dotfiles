@@ -1,7 +1,7 @@
 # ~/.tmuxinator/aaroe.yml
 
 name: aaroe
-root: ~/Dev/work/aaroe
+root: ~/Development/aaroe
 
 # Optional tmux socket
 # socket_name: foo
@@ -24,6 +24,6 @@ windows:
       panes:
         - emacs Gemfile
         - git status
-        - tail -f log/development.log
+        - rails s
   - console: rails console
   - procfile: be foreman start -f Procfile-dev

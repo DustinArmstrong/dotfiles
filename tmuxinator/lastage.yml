@@ -1,17 +1,16 @@
-# ~/.tmuxinator/littlelines.yml
+# ~/.tmuxinator/lastage.yml
 
-name: littlelines
-root: ~/Development/littlelines
+name: lastage
+root: ~/Development/lastage
 
 # Optional tmux socket
 # socket_name: foo
 
 # Runs before everything. Use it to start daemons etc.
 # pre: sudo /etc/rc.d/mysqld start
-# on_project_start: export RBENV_DIR=
 
 # Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
-# pre_window: rbenv shell 2.2.3
+# pre_window: rbenv shell 2.0.0-p247
 
 # Pass command line options to tmux. Useful for specifying a different tmux.conf.
 # tmux_options: -f ~/.tmux.mac.conf
@@ -25,5 +24,9 @@ windows:
       panes:
         - emacs Gemfile
         - git status
+  - server:
+      layout: 924e,193x43,0,0{126x43,0,0,0,66x43,127,0[66x21,127,0,2,66x10,127,22,3,66x10,127,33,4]}
+      panes:
         - rails s
+        - be foreman start
   - console: rails console
